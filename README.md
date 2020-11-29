@@ -40,7 +40,7 @@ All my repos gathered in one place, categorized for easier viewability
 * [Backpacking](https://github.com/pomkos/backpacking)
 
 ##### Projects
-* [Covid dash](https://github.com/pomkos/covid-dash)
+* [Covid dash](https://github.com/pomkos/covid_dash)
 * [Portfolio](https://github.com/pomkos/portfolio)
 * [Brotein](https://github.com/pomkos/brotein)
 * [Payme](https://github.com/pomkos/payme)
