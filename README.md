@@ -18,9 +18,9 @@ All my repos gathered in one place, categorized for easier viewability
 * [Markdown-cv](https://github.com/pomkos/markdown-cv) #fork
 
 ##### Deephire
-* 🔐 [Prospects](https://github.com/pomkos/prospects) #private
-* 🔐 [Wiscraper](https://github.com/pomkos/wiscraper) #private
-* 🔐 [Angel scraper](https://github.com/pomkos/angel) #private
+* [~~Prospects~~](https://github.com/pomkos/prospects) #private
+* [~~Wiscraper~~](https://github.com/pomkos/wiscraper) #private
+* [~~Angel scraper~~](https://github.com/pomkos/angel) #private
 
 ##### Dissertation
 * [Biking](https://github.com/pomkos/biking)
