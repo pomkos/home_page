@@ -40,11 +40,12 @@ All my repos gathered in one place, categorized for easier viewability
 * [Backpacking](https://github.com/pomkos/backpacking)
 
 ##### Projects
+* [Covid dash](https://github.com/pomkos/covid-dash)
 * [Portfolio](https://github.com/pomkos/portfolio)
 * [Brotein](https://github.com/pomkos/brotein)
 * [Payme](https://github.com/pomkos/payme)
 * [BMSSAC Datacamp](https://github.com/pomkos/BMSSAC_Datacamp) #fork
-* [Finished-projects](https://github.com/pomkos/Finished-Projects)
+* [Finished projects](https://github.com/pomkos/Finished-Projects)
 * [Cookpad scraper](https://github.com/pomkos/cookpad_scrape)
 * [Flask do](https://github.com/pomkos/flask_do) #archived
 
