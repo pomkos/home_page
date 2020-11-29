@@ -1,5 +1,18 @@
 All my repos gathered in one place, categorized for easier viewability
 
+# Table of Contents
+
+1. [CV Makers](#cv-makers)
+2. [Deephire](#deephire)
+3. [Dissertation](#dissertation)
+4. [Homserver configs](#homeserver-config)
+5. [ML Resources](#ml-resources)
+6. [Personal](#personal)
+7. [Projects](#projects)
+8. [Covid data](#covid-data)
+
+# Repositories
+
 ##### CV Makers
 * [Devfolio](https://github.com/pomkos/devfolio) #fork
 * [Markdown-cv](https://github.com/pomkos/markdown-cv) #fork
@@ -35,7 +48,7 @@ All my repos gathered in one place, categorized for easier viewability
 * [Cookpad scraper](https://github.com/pomkos/cookpad_scrape)
 * [Flask do](https://github.com/pomkos/flask_do) #archived
 
-##### Covid
+##### Covid Data
 * [NYT Covid data](https://github.com/pomkos/nyt-covid-data) #fork
 * [John Hopkins Covid data](https://github.com/pomkos/john-hopkins-covid-data) #fork
 * [Kaggle Covid19](https://github.com/pomkos/covid19) #archived
