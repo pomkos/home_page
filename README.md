@@ -1,5 +1,7 @@
 All my repos gathered in one place, categorized for easier viewability
 
+<p align = "center">
+  
 # Table of Contents
 
 1. [CV Makers](#cv-makers)
@@ -10,6 +12,7 @@ All my repos gathered in one place, categorized for easier viewability
 5. [ML Resources](#ml-resources)
 6. [Personal](#personal)
 7. [Projects](#projects)
+</p>
 
 # Repositories
 
