@@ -1,32 +1,32 @@
 All my repos gathered in one place, categorized for easier viewability
 
-__CV Makers__
+##### CV Makers
 * [Devfolio](https://github.com/pomkos/devfolio) #fork
 * [Markdown-cv](https://github.com/pomkos/markdown-cv) #fork
 
-__Deephire__
+##### Deephire
 * [Prospects](https://github.com/pomkos/prospects) #private
 * [Wiscraper](https://github.com/pomkos/wiscraper) #private
 * [Angel scraper](https://github.com/pomkos/angel) #private
 
-__Dissertation__
+##### Dissertation
 * [Biking](https://github.com/pomkos/biking)
 * [Entropy tremor](https://github.com/pomkos/entropy_tremor)
 * [Dancing](https://github.com/pomkos/dancing)
 
-__Homserver stuff__
+##### Homserver Config
 * [Hassio config](https://github.com/pomkos/hassio_config)
 * [Homeserver](https://github.com/pomkos/homeserver)
 
-__ML Resources__
+##### ML Resources
 * [Learn data science in 3 months](https://github.com/pomkos/Learn_Data_Science_in_3_Months) #fork 
 * [Dashboards](https://github.com/pomkos/dashboards) #fork
 * [Course resources ML with experts budgets](https://github.com/pomkos/course-resources-ml-with-experts-budgets) #fork
 
-__Personal__
+##### Personal
 * [Backpacking](https://github.com/pomkos/backpacking)
 
-__Projects__
+##### Projects
 * [Portfolio](https://github.com/pomkos/portfolio)
 * [Brotein](https://github.com/pomkos/brotein)
 * [Payme](https://github.com/pomkos/payme)
@@ -35,7 +35,7 @@ __Projects__
 * [Cookpad scraper](https://github.com/pomkos/cookpad_scrape)
 * [Flask do](https://github.com/pomkos/flask_do) #archived
 
-__Covid__
+##### Covid
 * [NYT Covid data](https://github.com/pomkos/nyt-covid-data) #fork
 * [John Hopkins Covid data](https://github.com/pomkos/john-hopkins-covid-data) #fork
 * [Kaggle Covid19](https://github.com/pomkos/covid19) #archived
