@@ -3,13 +3,13 @@ All my repos gathered in one place, categorized for easier viewability
 # Table of Contents
 
 1. [CV Makers](#cv-makers)
+8. [Covid data](#covid-data)
 2. [Deephire](#deephire)
 3. [Dissertation](#dissertation)
 4. [Homserver configs](#homeserver-config)
 5. [ML Resources](#ml-resources)
 6. [Personal](#personal)
 7. [Projects](#projects)
-8. [Covid data](#covid-data)
 
 # Repositories
 
@@ -18,9 +18,9 @@ All my repos gathered in one place, categorized for easier viewability
 * [Markdown-cv](https://github.com/pomkos/markdown-cv) #fork
 
 ##### Deephire
-* [~~Prospects~~](https://github.com/pomkos/prospects) #private
-* [~~Wiscraper~~](https://github.com/pomkos/wiscraper) #private
-* [~~Angel scraper~~](https://github.com/pomkos/angel) #private
+* [_Prospects_](https://github.com/pomkos/prospects) #private
+* [_Wiscraper_]https://github.com/pomkos/wiscraper) #private
+* [_Angel scraper_](https://github.com/pomkos/angel) #private
 
 ##### Dissertation
 * [Biking](https://github.com/pomkos/biking)
