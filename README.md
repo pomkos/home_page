@@ -19,7 +19,7 @@ All my repos gathered in one place, categorized for easier viewability
 
 ##### Deephire
 * [_Prospects_](https://github.com/pomkos/prospects) #private
-* [_Wiscraper_]https://github.com/pomkos/wiscraper) #private
+* [_Wiscraper_](https://github.com/pomkos/wiscraper) #private
 * [_Angel scraper_](https://github.com/pomkos/angel) #private
 
 ##### Dissertation
