@@ -18,7 +18,6 @@ All my repos gathered in one place, categorized for easier viewability
 * [Markdown-cv](https://github.com/pomkos/markdown-cv) #fork
 
 ##### Datasets
-* [Covid dash using plotly dash](https://github.com/pomkos/covid_w_plotlydash) #archived
 * [John Hopkins Covid data](https://github.com/pomkos/john-hopkins-covid-data) #fork
 * [Kaggle Covid19](https://github.com/pomkos/covid19) #archived
 * [NYT Covid data](https://github.com/pomkos/nyt-covid-data) #fork
@@ -49,7 +48,8 @@ All my repos gathered in one place, categorized for easier viewability
 * [BMSSAC Datacamp](https://github.com/pomkos/BMSSAC_Datacamp) #fork
 * [Brotein](https://github.com/pomkos/brotein)
 * [Cookpad scraper](https://github.com/pomkos/cookpad_scrape)
-* [Covid dash](https://github.com/pomkos/covid_dash)
+* [Covid dash using streamlit](https://github.com/pomkos/covid_dash)
+* [Covid dash using plotly dash](https://github.com/pomkos/covid_w_plotlydash) #archived
 * [Finished projects](https://github.com/pomkos/Finished-Projects)
 * [Flask do](https://github.com/pomkos/flask_do) #archived
 * [Portfolio](https://github.com/pomkos/portfolio)
