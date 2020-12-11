@@ -53,4 +53,5 @@ All my repos gathered in one place, categorized for easier viewability
 * [Finished projects](https://github.com/pomkos/Finished-Projects)
 * [Flask do](https://github.com/pomkos/flask_do) #archived
 * [Portfolio](https://github.com/pomkos/portfolio)
+* [Streamlit starter](https://github.com/pomkos/streamlit_starter)
 * [Payme](https://github.com/pomkos/payme)
