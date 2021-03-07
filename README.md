@@ -70,4 +70,6 @@ All my repos gathered in one place, categorized for easier viewability
   * Calculates and autofills a Venmo request, while accounting for tip, taxes, fees, and individual buys
 * [Streamlit starter](https://github.com/pomkos/streamlit_starter)
   * Bash script to easily start self-hosted instances of streamlit projects
+* [WhereIs](https://github.com/pomkos/whereis)
+  * Streamlit website to update your current and future travel plans, including ticket OCR and flight tracker links
 
