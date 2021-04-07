@@ -51,7 +51,7 @@ All my repos gathered in one place, categorized for easier viewability
 * [Backpacking](https://github.com/pomkos/backpacking)
   * A log of my backpacking items
 ##### Pillar
-* [Twitch chat analyzer for Pillar](https://github.com/pomkos/twitch_chat_analysis) #WIP for pillar.gg
+* [Twitch chat analyzer for Pillar](https://github.com/pomkos/twitch_chat_analysis) #WIP for [pillar.gg](https://pillar.gg/)
 
 ##### Projects
 * [BMSSAC Datacamp](https://github.com/pomkos/BMSSAC_Datacamp) #fork
