@@ -9,7 +9,8 @@ All my repos gathered in one place, categorized for easier viewability
 4. [Homserver configs](#homeserver-config)
 5. [ML Resources](#ml-resources)
 6. [Personal](#personal)
-7. [Projects](#projects)
+7. [Pillar](#pillar)
+8. [Projects](#projects)
 
 # Repositories
 
@@ -49,6 +50,8 @@ All my repos gathered in one place, categorized for easier viewability
 ##### Personal
 * [Backpacking](https://github.com/pomkos/backpacking)
   * A log of my backpacking items
+##### Pillar
+* [Twitch chat analyzer for Pillar](https://github.com/pomkos/twitch_chat_analysis) #WIP for pillar.gg
 
 ##### Projects
 * [BMSSAC Datacamp](https://github.com/pomkos/BMSSAC_Datacamp) #fork
@@ -70,7 +73,6 @@ All my repos gathered in one place, categorized for easier viewability
   * Calculates and autofills a Venmo request, while accounting for tip, taxes, fees, and individual buys
 * [Streamlit starter](https://github.com/pomkos/streamlit_starter)
   * Bash script to easily start self-hosted instances of streamlit projects
-* [Twitch chat analyzer for Pillar](https://github.com/pomkos/twitch_chat_analysis) #WIP
 * [WhereIs](https://github.com/pomkos/whereis)
   * Streamlit website to update your current and future travel plans, including ticket OCR and flight tracker links
 
