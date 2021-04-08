@@ -44,6 +44,7 @@ All my repos gathered in one place, categorized for easier viewability
 
 ##### ML Resources
 * [Course resources ML with experts budgets](https://github.com/pomkos/course-resources-ml-with-experts-budgets) #fork
+* [Data Science resources](https://github.com/pomkos/datasci_resources)
 * [Dashboards](https://github.com/pomkos/dashboards) #fork
 * [Learn data science in 3 months](https://github.com/pomkos/Learn_Data_Science_in_3_Months) #fork 
 
