@@ -33,6 +33,8 @@ All my repos gathered in one place, categorized for easier viewability
   * Made for my lab. Basic GUI to convert raw dynamic bike files to a format that can be read by our Matlab entropy script. Includes basic descriptive stats.
 * [Dancing](https://github.com/pomkos/dancing)
   * Calculates the entropy of each Noraxon recording
+* [Dissert](https://github.com/pomkos/dissert)
+  * All the code used for my dissertation
 * [Entropy tremor](https://github.com/pomkos/entropy_tremor)
   * Calculates the entropy of raw output from a Parkinson's device
 
